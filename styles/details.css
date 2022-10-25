@@ -1,0 +1,12 @@
+.options {
+    flex-basis: 24%;
+    margin: 0 2rem;
+    border: 1px dashed rgb(67, 40, 126);
+    padding: 1rem;
+    border-radius: 1rem;
+    box-shadow: 0.25rem 0.25rem 0.5rem rgb(34, 0, 76);
+}
+
+.choices {
+    display: flex;
+}
